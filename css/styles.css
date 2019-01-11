@@ -1,0 +1,103 @@
+body {
+font-family: Arial, Helvetica, sans-serif;
+margin: 0;
+}
+#Header{
+	margin-top:0;
+	padding :0;
+	font-size: 24px;
+	text-align: center;
+	width : 100%;
+	background-color:#03A9F4;
+	height:130px;
+
+}
+
+#Header h1{
+	border-style:solid;
+	margin:0;
+	padding :0;
+	height:97px;
+	padding-top:30px;
+
+	
+
+
+}
+
+#Header img{
+	float:left;
+	padding-top: 10px;
+	height:110px;
+	padding-left:15px;
+	
+}
+
+#user_data input{
+	padding:0;
+	margin:0;
+	height: 32px;
+	font-size: 20px;
+    border-style: solid;
+}
+
+#user_data input.f{
+	padding:0;
+	margin:0;
+	height: 30px;
+	font-size: 20px;
+    border-style: none;
+	padding-left: 5px;
+}
+
+#user_data label{
+	padding-left: 5px;
+	height: 30px;
+	font-size: 20px;
+	margin: 0;
+	
+}
+
+#user_data a{
+	font-size: 20px;
+
+}
+#user_data p{
+	padding-top:20px;
+}
+#user_data #pbutton{
+	padding-top:40px;
+}
+#user_data #last{
+	padding-top:70px;
+}
+#user_data #doneBtn{
+	
+	/*background-color:red;
+	height:30px;
+	Width: 100px;*/
+	 background-color: #03a9f4;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  border-radius: 12px;
+  height: 58px;
+  width:110px;
+}
+
+#Footer{
+	widht:100%;
+	background: #03a9f4;
+
+}
+#Footer h5{
+	color: white;
+	padding: 10px 5px;
+    font-size: 16px;
+	
+}
